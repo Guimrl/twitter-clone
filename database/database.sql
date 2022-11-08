@@ -1,3 +1,6 @@
+-- copie e cole as querys abaixo na sua ferramenta de administraçao
+-- de banco de dados favorita! Eu utilizei o phpmyadmin.
+
 create database twitter-clone;
 
 use twitter-clone;
